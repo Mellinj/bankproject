@@ -300,5 +300,5 @@ class Startup {
         return 0;
     }
 }
-
-Startup.main();
+// For testing purposes only!!
+//Startup.main();
